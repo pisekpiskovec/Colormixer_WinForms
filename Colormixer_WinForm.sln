@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colormixer (WinForms)", "Colormixer_WinForms\Colormixer (WinForms).csproj", "{9862179E-9442-4232-82CF-47F978B0FBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colormixer (WinForm)", "Colormixer (WinForm)\Colormixer (WinForm).csproj", "{9862179E-9442-4232-82CF-47F978B0FBD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
